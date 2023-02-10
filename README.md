@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that will teach me something new
 - 📫 How to reach me ...
 - 💾 I'm currently using this as a place to store examples I've learned about
-- 📝 A kind of cheat sheet
+- 📝 A kind of cheat sheet I can come back to now and then
 
 <!---
 andyjh86/andyjh86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
