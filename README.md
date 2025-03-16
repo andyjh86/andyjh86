@@ -6,7 +6,7 @@
 - 💾 I'm currently using this as a place to store examples I've learned about. ~~**Full disclosure: ~~I have no idea what I'm doing~~ I am stil learning.**
 - 📝 I use this as a cheat sheet most of the time, but figure I might as well use it to document my learning journey.
 
-~The cringe sets in every time I look at my old code and I die a little on the inside... That means I'm getting better right?~
+<sub>The cringe sets in every time I look at my old code and I die a little on the inside... That means I'm getting better right?</sub>
 <!---
 andyjh86/andyjh86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
