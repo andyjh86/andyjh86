@@ -2,7 +2,7 @@
 - 👀 I’m interested in conversational chat bots, machine learning & self hosting. 
 - 🌱 I’m currently learning ~~python~~ ~~nodejs & javascript~~ C# and server networking (C# is a lie but the intent is there)
 - 💞️ I’m looking to collaborate on anything ~~that will teach me something new~~. **literally anything**
-- 📫 How to reach me ... I don't know, follow me on here. Interact with my repositories and I'll probably follow you
+- 📫 How to reach me ... Best to follow me on here. I try to keep online and IRL separate.
 - 💾 I'm currently using this as a place to store examples I've learned about. ~~**Full disclosure: ~~I have no idea what I'm doing~~ I am stil learning.**
 - 📝 I use this as a cheat sheet most of the time, but figure I might as well use it to document my learning journey.
 
