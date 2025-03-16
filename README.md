@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything ~~that will teach me something new~~. **literally anything**
 - 📫 How to reach me ... Best to follow me on here. I try to keep online and IRL separate.
 - 💾 I'm currently using this as a place to store examples I've learned about. ~~**Full disclosure: ~~I have no idea what I'm doing~~ I am stil learning.**
-- 📝 I use this as a cheat sheet most of the time, but figure I might as well use it to document my learning journey.
+- 📝 I mainly use my GitHub as a cheat sheet, but it does tell a story of my learning journey.
 
 <sub>The cringe sets in every time I look at my old code and I die a little on the inside... That means I'm getting better right?</sub>
 <!---
