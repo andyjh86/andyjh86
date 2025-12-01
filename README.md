@@ -54,6 +54,8 @@ If you're viewing this profile as a recruiter or hiring manager:
 
 Thanks for stopping by.  
 
-(•_•)
-( •_•)>⌐■-■
-(⌐■_■)
+(•_•) 
+
+( •_•)>⌐■-■ 
+
+(⌐■_■) 
