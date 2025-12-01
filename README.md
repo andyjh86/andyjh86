@@ -52,10 +52,10 @@ Because this is a learning space, the code here is intentionally simple.
 If you're viewing this profile as a recruiter or hiring manager:  
 **please treat this as a reference library, not a showcase of my professional project delivery work.**
 
-Thanks for stopping by.  
-
 (•_•) 
 
 ( •_•)>⌐■-■ 
 
 (⌐■_■) 
+
+Thanks for stopping by.  
