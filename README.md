@@ -4,7 +4,7 @@ Welcome to my GitHub.
 
 I use it as my **personal knowledge base**
 
-If you're viewing this profile as a recruiter or hiring manager:  
+*If you're viewing this profile as a recruiter or hiring manager:*  
 **Please treat this as a reference library, not a showcase of my professional project delivery work.**
 
 I work primarily across **ICT projects, business analysis, and digital transformation**, and I use this GitHub as a space to organise the technical things I learn along the way. Learning code is a **hobby**, I am not a developer, and it is not the centre of my career, but it does help with the project work I do across systems, architecture, automation, and problem-solving.
