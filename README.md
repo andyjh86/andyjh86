@@ -1,7 +1,8 @@
 # Hi, I'm Andy 👋
 
-Welcome to my GitHub.  
-I use this as my **personal knowledge base**
+Welcome to my GitHub.
+
+I use it as my **personal knowledge base**
 
 I work primarily across **ICT projects, business analysis, and digital transformation**, and I use this GitHub as a space to organise the technical things I learn along the way. Learning code is a **hobby**, I am not a developer, and it is not the centre of my career, but it does help with the project work I do across systems, architecture, automation, and problem-solving.
 
