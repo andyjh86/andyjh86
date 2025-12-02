@@ -4,6 +4,9 @@ Welcome to my GitHub.
 
 I use it as my **personal knowledge base**
 
+If you're viewing this profile as a recruiter or hiring manager:  
+**Please treat this as a reference library, not a showcase of my professional project delivery work.**
+
 I work primarily across **ICT projects, business analysis, and digital transformation**, and I use this GitHub as a space to organise the technical things I learn along the way. Learning code is a **hobby**, I am not a developer, and it is not the centre of my career, but it does help with the project work I do across systems, architecture, automation, and problem-solving.
 
 ---
@@ -35,14 +38,14 @@ GitHub helps me:
 - Support my continuous learning mindset  
 
 If something in here is helpful to someone else - great success.  
-But the main purpose of this space is **learning, exploring, and placing my (sometimes incoherent)**.
+But the main purpose of this space is **learning, exploring, and organising my (sometimes incoherent) notes**.
 
 ---
 
 ## 🤝 Open to Collaboration (Casually)
 
-If you see something interesting, feel free to reach out.  
-I’m always happy to chat about ICT projects, digital transformation, home-lab setups, or anything technical I may have dabbled in here.
+If you see something interesting, please feel free to reach out to me.  
+I’m always happy to chat about ICT projects, digital transformation, home-lab setups, or anything technical I've dabbled in here.
 
 ---
 
@@ -50,8 +53,8 @@ I’m always happy to chat about ICT projects, digital transformation, home-lab 
 
 Because this is a learning space, the code here is intentionally simple.  
 
-If you're viewing this profile as a recruiter or hiring manager:  
-**please treat this as a reference library, not a showcase of my professional project delivery work.**
+So I'll say it once more: If you're viewing this profile as a recruiter or hiring manager:  
+**Please treat this as a reference library, not a showcase of my professional project delivery work.**
 
 (•_•) 
 
