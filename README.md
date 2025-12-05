@@ -49,13 +49,6 @@ I’m always happy to chat about ICT projects, digital transformation, home-lab 
 
 ---
 
-## 📌 A Final Note
-
-Because this is a learning space, the code here is intentionally simple.  
-
-So I'll say it once more: *If you're viewing this profile as a recruiter or hiring manager:*  
-**Please treat this as a reference library, not a showcase of my professional project delivery work.**
-
 (•_•) 
 
 ( •_•)>⌐■-■ 
